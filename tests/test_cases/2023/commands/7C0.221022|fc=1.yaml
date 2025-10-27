@@ -1,0 +1,14 @@
+command_id: 7C0.221022|fc=1
+test_cases:
+- expected_values:
+    LEXUS_FLV: 8.09
+  response: 7C8056210220329
+- expected_values:
+    LEXUS_FLV: 17.89
+  response: 7C80562102206FD
+- expected_values:
+    LEXUS_FLV: 25.6
+  response: 7C8056210220A00
+- expected_values:
+    LEXUS_FLV: 38.51
+  response: 7C8056210220F0B

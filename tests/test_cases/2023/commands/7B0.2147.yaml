@@ -1,0 +1,98 @@
+command_id: 7B0.2147
+test_cases:
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -73
+    LEXUS_YAW_RATE: -3
+  response: |-
+    7B81009614700007D7D
+    7B82126000000000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -3.3
+    LEXUS_YAW_RATE: -1
+  response: |-
+    7B81009614700007F7F
+    7B821DF000200000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -496.1
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B8100961470000806C
+    7B8219F00F700000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -14.4
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B8100961470000807F
+    7B8217000F600000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -4.4
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B8100961470000807F
+    7B821D400EF00000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -1.6
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B8100961470000807F
+    7B821F0000100000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: 0
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B81009614700008080
+    7B82100000000000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: -0.02
+    LEXUS_STEER_ANGLE: -8.7
+    LEXUS_YAW_RATE: -3
+  response: |-
+    7B81009614700FF7D7F
+    7B821A9000000000000
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: -0.02
+    LEXUS_STEER_ANGLE: 506.5
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B81009614700FF8093
+    7B821C9000200000000
+- expected_values:
+    LEXUS_LAT_G: 0.32
+    LEXUS_LNG_G: -0.02
+    LEXUS_STEER_ANGLE: 172.3
+    LEXUS_YAW_RATE: 27
+  response: |-
+    7B81009614710FF9B86
+    7B821BB000300000000
+- expected_values:
+    LEXUS_LAT_G: -0.16
+    LEXUS_LNG_G: 0.06
+    LEXUS_STEER_ANGLE: -241.6
+    LEXUS_YAW_RATE: -23
+  response: |-
+    7B810096147F8036976
+    7B82190000900000000
+- expected_values:
+    LEXUS_LAT_G: -0.02
+    LEXUS_LNG_G: 0
+    LEXUS_STEER_ANGLE: -494.9
+    LEXUS_YAW_RATE: -10
+  response: |-
+    7B810096147FF00766C
+    7B821AB000200000000

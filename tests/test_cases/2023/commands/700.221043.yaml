@@ -5,9 +5,9 @@ test_cases:
     LEXUS_EWP_TARGET_VSS: 0
   response: '708056210430006'
 - expected_values:
-    LEXUS_EWP_RPM: 5025
+    LEXUS_EWP_RPM: 2750
     LEXUS_EWP_TARGET_VSS: 6000
-  response: 70805621043F0C9
+  response: 70805621043F06E
 - expected_values:
     LEXUS_EWP_RPM: 5950
     LEXUS_EWP_TARGET_VSS: 6000

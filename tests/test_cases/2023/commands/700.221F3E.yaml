@@ -10,5 +10,5 @@ test_cases:
     LEXUS_CAT_T_BANK_1_SENSOR_2: 369.5
   response: 70805621F3E0FFF
 - expected_values:
-    LEXUS_CAT_T_BANK_1_SENSOR_2: 639.8
-  response: 70805621F3E1A8E
+    LEXUS_CAT_T_BANK_1_SENSOR_2: 626.7
+  response: 70805621F3E1A0B

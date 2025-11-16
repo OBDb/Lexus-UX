@@ -4,5 +4,5 @@ test_cases:
     LEXUS_EOT_V3_V2: 9
   response: 70804621F5C31
 - expected_values:
-    LEXUS_EOT_V3_V2: 86
-  response: 70804621F5C7E
+    LEXUS_EOT_V3_V2: 87
+  response: 70804621F5C7F

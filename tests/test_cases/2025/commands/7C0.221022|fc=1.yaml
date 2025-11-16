@@ -1,0 +1,17 @@
+command_id: 7C0.221022|fc=1
+test_cases:
+- expected_values:
+    LEXUS_FLV: 2.95
+    LEXUS_FUEL_LEVEL: 2.95
+  response: 7C8056210220127
+- expected_values:
+    LEXUS_FLV: 7.67
+    LEXUS_FUEL_LEVEL: 7.67
+  response: 7C80562102202FF
+- expected_values:
+    LEXUS_FLV: 7.68
+    LEXUS_FUEL_LEVEL: 7.68
+  response: 7C8056210220300
+- expected_values:
+    LEXUS_FUEL_LEVEL: 655.35
+  response: 7C805621022FFFF

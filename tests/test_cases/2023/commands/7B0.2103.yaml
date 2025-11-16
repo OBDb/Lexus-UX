@@ -1,0 +1,14 @@
+command_id: 7B0.2103
+test_cases:
+- expected_values:
+    LEXUS_TIRE_FL_SPD: 0
+    LEXUS_TIRE_FR_SPD: 0
+    LEXUS_TIRE_RL_SPD: 0
+    LEXUS_TIRE_RR_SPD: 0
+  response: 7B806610300000000
+- expected_values:
+    LEXUS_TIRE_FL_SPD: 120.32
+    LEXUS_TIRE_FR_SPD: 120.32
+    LEXUS_TIRE_RL_SPD: 120.32
+    LEXUS_TIRE_RR_SPD: 120.32
+  response: 7B80661035E5E5E5E

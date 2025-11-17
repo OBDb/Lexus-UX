@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2106
+test_cases:
+- expected_values:
+    LEXUS_YAW_1: -2
+    LEXUS_YAW_2: -2
+  response: 7B80661067E7E7F5B
+- expected_values:
+    LEXUS_YAW_1: -1
+    LEXUS_YAW_2: -1
+  response: 7B80661067F7F7FA6
+- expected_values:
+    LEXUS_YAW_1: 0
+    LEXUS_YAW_2: 0
+  response: 7B806610680807FE2
+- expected_values:
+    LEXUS_YAW_1: 0
+    LEXUS_YAW_2: 0
+  response: 7B806610680807FF1
+- expected_values:
+    LEXUS_YAW_1: 0
+    LEXUS_YAW_2: 0
+  response: 7B80661068080802D
+- expected_values:
+    LEXUS_YAW_1: 2
+    LEXUS_YAW_2: 2
+  response: 7B806610682828159

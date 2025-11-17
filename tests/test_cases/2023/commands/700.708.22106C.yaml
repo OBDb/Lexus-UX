@@ -1,0 +1,8 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    LEXUS_DIST_SINCE_BAT_DISC: 23091
+  response: 7080562106C5A33
+- expected_values:
+    LEXUS_DIST_SINCE_BAT_DISC: 23092
+  response: 7080562106C5A34

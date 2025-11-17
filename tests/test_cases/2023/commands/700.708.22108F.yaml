@@ -1,0 +1,26 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.21481
+  response: 7080562108F2416
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.3027
+  response: 7080562108F241F
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.43942
+  response: 7080562108F242D
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.60544
+  response: 7080562108F243E
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.73239
+  response: 7080562108F244B
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.94723
+  response: 7080562108F2461
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 91.04489
+  response: 7080562108F246B
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 91.17184
+  response: 7080562108F2478

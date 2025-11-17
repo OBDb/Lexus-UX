@@ -1,0 +1,20 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 0
+  response: 7080562108A8000
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 19.22953
+  response: 7080562108A8C57
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 20.04721
+  response: 7080562108A8CDD
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 23.86711
+  response: 7080562108A8F4F
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 26.4544
+  response: 7080562108A90F7
+- expected_values:
+    LEXUS_VVT_IE_DUTY_RATIO_BANK_1: 28.49249
+  response: 7080562108A9245

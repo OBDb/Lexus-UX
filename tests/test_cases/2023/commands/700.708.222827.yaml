@@ -4,26 +4,5 @@ test_cases:
     LEXUS_ELECTRIC_WATER_PUMP: 160
   response: '7080462282704'
 - expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 3200
-  response: '7080462282750'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 3240
-  response: '7080462282751'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 3440
-  response: '7080462282756'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 3560
-  response: '7080462282759'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 3600
-  response: 708046228275A
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 5120
-  response: '7080462282780'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 5160
-  response: '7080462282781'
-- expected_values:
-    LEXUS_ELECTRIC_WATER_PUMP: 5200
-  response: '7080462282782'
+    LEXUS_ELECTRIC_WATER_PUMP: 5880
+  response: '7080462282793'

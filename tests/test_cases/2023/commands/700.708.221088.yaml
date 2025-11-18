@@ -4,23 +4,8 @@ test_cases:
     LEXUS_EXHAUST_VVT_ANGLE_B1: 0
   response: '708056210880000'
 - expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 0.07811
-  response: '708056210880008'
+    LEXUS_EXHAUST_VVT_ANGLE_B1: 39.9846
+  response: 708056210880FFF
 - expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 8.21173
-  response: '708056210880349'
-- expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 21.28606
-  response: '708056210880884'
-- expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 25.8362
-  response: 708056210880A56
-- expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 31.30418
-  response: 708056210880C86
-- expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 37.94387
-  response: 708056210880F2E
-- expected_values:
-    LEXUS_EXHAUST_VVT_ANGLE_B1: 40.15059
-  response: '708056210881010'
+    LEXUS_EXHAUST_VVT_ANGLE_B1: 39.99436
+  response: '708056210881000'

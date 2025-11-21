@@ -4,6 +4,7 @@ test_cases:
     LEXUS_ZP_DEC: -25.11
     LEXUS_ZP_DEC2: -25.11
     LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
   response: |-
     7B8100A614600008080
     7B82100000000000000

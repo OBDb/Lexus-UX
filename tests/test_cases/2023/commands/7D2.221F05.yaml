@@ -1,8 +1,8 @@
 command_id: 7D2.221F05
 test_cases:
 - expected_values:
-    LEXUS_COOL_T: 15
-  response: 7DA04621F0537
+    LEXUS_COOL_T: 9
+  response: 7DA04621F0531
 - expected_values:
     LEXUS_COOL_T: 92
   response: 7DA04621F0584

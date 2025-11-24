@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 32.91014
   response: 7080562108D0D2A
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 32.94921
+  response: 7080562108D0D2E

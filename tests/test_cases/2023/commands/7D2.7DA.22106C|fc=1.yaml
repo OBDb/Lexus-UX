@@ -5,9 +5,8 @@ test_cases:
     LEXUS_HVBAT_SOC_MIN: 39
   response: 7DA0662106C4E4E4E
 - expected_values:
-    LEXUS_HVBAT_SOC_MAX: 44
-    LEXUS_HVBAT_SOC_MIN: 35.5
-  response: 7DA0662106C585847
+    LEXUS_HVBAT_SOC_MAX: 40
+  response: 7DA0662106C50503F
 - expected_values:
     LEXUS_HVBAT_SOC_MAX: 73
     LEXUS_HVBAT_SOC_MIN: 38

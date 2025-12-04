@@ -1,14 +1,17 @@
 command_id: 7C4.214C
 test_cases:
 - expected_values:
-    LEXUS_EVAPORATOR_TARGET_TEMP: 1
+    LEXUS_EVAP_TARGET_T: 1
   response: 7CC04614C8064
 - expected_values:
-    LEXUS_EVAPORATOR_TARGET_TEMP: 4.73
+    LEXUS_EVAP_TARGET_T: 4.28
+  response: 7CC04614C81AC
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 4.73
   response: 7CC04614C81D9
 - expected_values:
-    LEXUS_EVAPORATOR_TARGET_TEMP: 5.4
+    LEXUS_EVAP_TARGET_T: 5.4
   response: 7CC04614C821C
 - expected_values:
-    LEXUS_EVAPORATOR_TARGET_TEMP: 6.21
+    LEXUS_EVAP_TARGET_T: 6.21
   response: 7CC04614C826D

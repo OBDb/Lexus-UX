@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.221021
 test_cases:
 - expected_values:
-    LEXUS_BATTERY_VOLTAGE: 12.6
-  response: 7C8046210217E
+    LEXUS_BATTERY_VOLTAGE_V2: 11.8
+  response: 7C80462102176
 - expected_values:
-    LEXUS_BATTERY_VOLTAGE: 14.6
+    LEXUS_BATTERY_VOLTAGE_V2: 14.6
   response: 7C80462102192

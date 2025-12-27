@@ -1,8 +1,8 @@
 command_id: 700.221F3C
 test_cases:
 - expected_values:
-    LEXUS_CAT_T_BANK_1_SENSOR_1: 45.7
-  response: 70805621F3C0359
+    LEXUS_CAT_T_BANK_1_SENSOR_1: 40.3
+  response: 70805621F3C0323
 - expected_values:
     LEXUS_CAT_T_BANK_1_SENSOR_1: 344
   response: 70805621F3C0F00
@@ -10,5 +10,5 @@ test_cases:
     LEXUS_CAT_T_BANK_1_SENSOR_1: 420.7
   response: 70805621F3C11FF
 - expected_values:
-    LEXUS_CAT_T_BANK_1_SENSOR_1: 711.7
-  response: 70805621F3C1D5D
+    LEXUS_CAT_T_BANK_1_SENSOR_1: 763
+  response: 70805621F3C1F5E

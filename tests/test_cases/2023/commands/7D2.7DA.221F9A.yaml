@@ -1,17 +1,17 @@
 command_id: 7D2.7DA.221F9A
 test_cases:
 - expected_values:
-    LEXUS_HVBAT_C: 69.6
+    LEXUS_HVBAT_C: 82.1
+    LEXUS_HVBAT_V: 196
+  response: |-
+    7DA1009621F9A0E0031
+    7DA2100033500000000
+- expected_values:
+    LEXUS_HVBAT_C: 51
     LEXUS_HVBAT_V: 199
   response: |-
     7DA1009621F9A0E0031
-    7DA21C002B800000000
-- expected_values:
-    LEXUS_HVBAT_C: 126.7
-    LEXUS_HVBAT_V: 200
-  response: |-
-    7DA1009621F9A0E0032
-    7DA210004F300000000
+    7DA21C001FE00000000
 - expected_values:
     LEXUS_HVBAT_C: 136
     LEXUS_HVBAT_V: 204

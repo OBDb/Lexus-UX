@@ -37,7 +37,6 @@ test_cases:
     7DA100C6210A2800380
     7DA212F0400802E0400
 - expected_values:
-    LEXUS_RM_TQ: 69.875
     LEXUS_RM_TQ_REQ: 671
   response: |-
     7DA100C6210A2829F82

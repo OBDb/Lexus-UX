@@ -1,0 +1,11 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    LEXUS_12V_V_V2: 12.67575
+  response: '708056210022890'
+- expected_values:
+    LEXUS_12V_V_V2: 14.37008
+  response: 708056210022DFC
+- expected_values:
+    LEXUS_12V_V_V2: 14.37496
+  response: '708056210022E00'

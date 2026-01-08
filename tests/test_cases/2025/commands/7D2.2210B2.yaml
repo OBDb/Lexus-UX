@@ -1,8 +1,8 @@
 command_id: 7D2.2210B2
 test_cases:
 - expected_values:
-    LEXUS_INVRT_COOLANT_T: 4
-  response: 7DA046210B22C
+    LEXUS_INVRT_COOLANT_T: 3
+  response: 7DA046210B22B
 - expected_values:
     LEXUS_INVRT_COOLANT_T: 54
   response: 7DA046210B25E

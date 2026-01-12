@@ -1,0 +1,26 @@
+command_id: 700.708.22108D
+test_cases:
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.60546
+  response: 7080562108D0E3E
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.61522
+  response: 7080562108D0E3F
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.64452
+  response: 7080562108D0E42
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.68358
+  response: 7080562108D0E46
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.69335
+  response: 7080562108D0E47
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.76171
+  response: 7080562108D0E4E
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.81053
+  response: 7080562108D0E53
+- expected_values:
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 35.83983
+  response: 7080562108D0E56

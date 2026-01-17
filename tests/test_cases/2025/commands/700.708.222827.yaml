@@ -1,0 +1,8 @@
+command_id: 700.708.222827
+test_cases:
+- expected_values:
+    LEXUS_ELECTRIC_WATER_PUMP: 1840
+  response: 708046228272E
+- expected_values:
+    LEXUS_ELECTRIC_WATER_PUMP: 6920
+  response: 70804622827AD

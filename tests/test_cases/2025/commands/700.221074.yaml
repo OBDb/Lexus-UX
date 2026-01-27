@@ -5,9 +5,9 @@ test_cases:
     LEXUS_EOP: 0
   response: '708056210740000'
 - expected_values:
-    LEXUS_ENG_OIL_PRESS: 99.92188
-    LEXUS_EOP: 99.92188
-  response: 7080562107404FF
+    LEXUS_ENG_OIL_PRESS: 39.92188
+    LEXUS_EOP: 39.92188
+  response: 7080562107401FF
 - expected_values:
     LEXUS_ENG_OIL_PRESS: 482.10938
     LEXUS_EOP: 482.10938

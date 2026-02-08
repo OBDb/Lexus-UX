@@ -1,0 +1,14 @@
+command_id: 747.220103|fc=1
+test_cases:
+- expected_values:
+    LEXUS_ODO_V6: 9014
+  response: 74F0762010302002336
+- expected_values:
+    LEXUS_ODO_V6: 9983
+  response: 74F07620103020026FF
+- expected_values:
+    LEXUS_ODO_V6: 9984
+  response: 74F0762010302002700
+- expected_values:
+    LEXUS_ODO_V6: 21760
+  response: 74F0762010302005500

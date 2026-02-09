@@ -1,0 +1,5 @@
+command_id: 7B0.21BC
+test_cases:
+- expected_values:
+    LEXUS_HAZARD_SWITCH_HISTORY: COMPLETE
+  response: 7B80461BC2480

@@ -1,0 +1,32 @@
+command_id: 7D2.708.2210A2
+test_cases:
+- expected_values:
+    LEXUS_RM_TQ_REQ: -7553
+  response: |-
+    70810086210A2627F81
+    7082185800000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: -4482
+  response: |-
+    70810086210A26E7E7F
+    7082185800000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: -4479
+  response: |-
+    70810086210A26E8187
+    7082185800000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: -2185
+  response: |-
+    70810086210A2777781
+    7082185800000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: 392
+  response: |-
+    70810086210A2818880
+    7082185800000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: 2184
+  response: |-
+    70810086210A2888880
+    7082185800000000000

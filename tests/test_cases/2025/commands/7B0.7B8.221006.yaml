@@ -1,0 +1,8 @@
+command_id: 7B0.7B8.221006
+test_cases:
+- expected_values:
+    LEXUS_MASTER_CYL_TEMP: -7
+  response: 7B8056210064900
+- expected_values:
+    LEXUS_MASTER_CYL_TEMP: 46
+  response: 7B8056210067E00

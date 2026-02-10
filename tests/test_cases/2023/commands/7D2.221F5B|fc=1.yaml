@@ -4,5 +4,5 @@ test_cases:
     LEXUS_SOC: 29.01961
   response: 7DA04621F5B4A
 - expected_values:
-    LEXUS_SOC: 79.60784
-  response: 7DA04621F5BCB
+    LEXUS_SOC: 80
+  response: 7DA04621F5BCC

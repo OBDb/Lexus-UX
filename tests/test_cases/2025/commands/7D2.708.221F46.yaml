@@ -4,5 +4,5 @@ test_cases:
     LEXUS_AAT: -13
   response: 70804621F461B
 - expected_values:
-    LEXUS_AAT: 16
-  response: 70804621F4638
+    LEXUS_AAT: 25
+  response: 70804621F4641

@@ -27,6 +27,13 @@ test_cases:
     LEXUS_BUZZER: 0
     LEXUS_ECB_WARN: 0
     LEXUS_SLIP_WARN: 0
+  response: 7B805613D000208
+- expected_values:
+    LEXUS_ABS_WARN: 0
+    LEXUS_BRAKE_WARN: 0
+    LEXUS_BUZZER: 0
+    LEXUS_ECB_WARN: 0
+    LEXUS_SLIP_WARN: 0
   response: 7B805613D000300
 - expected_values:
     LEXUS_ABS_WARN: 1

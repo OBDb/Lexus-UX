@@ -1,9 +1,9 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    LEXUS_LFP: 215.7
-    LEXUS_LFPS: -3061.1
-  response: 708056210CD886D
+    LEXUS_LFP: 154.1
+    LEXUS_LFPS: -3122.7
+  response: 708056210CD8605
 - expected_values:
     LEXUS_LFP: 383.9
     LEXUS_LFPS: -2892.9

@@ -13,17 +13,17 @@ test_cases:
     7DA1009621F9A0E0030
     7DA21C0046200000000
 - expected_values:
+    LEXUS_HVBAT_C: 48
+    LEXUS_HVBAT_V: 199
+  response: |-
+    7DA1009621F9A0E0031
+    7DA21C001E000000000
+- expected_values:
     LEXUS_HVBAT_C: 132.7
     LEXUS_HVBAT_V: 203
   response: |-
     7DA1009621F9A0E0032
     7DA21C0052F00000000
-- expected_values:
-    LEXUS_HVBAT_C: 136
-    LEXUS_HVBAT_V: 204
-  response: |-
-    7DA1009621F9A0E0033
-    7DA2100055000000000
 - expected_values:
     LEXUS_HVBAT_C: -1.2
     LEXUS_HVBAT_V: 219

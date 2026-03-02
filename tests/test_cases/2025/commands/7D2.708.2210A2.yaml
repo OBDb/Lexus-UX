@@ -16,9 +16,14 @@ test_cases:
     70810086210A27A858D
     7082187880000000000
 - expected_values:
-    LEXUS_RM_TQ_REQ: 1413
+    LEXUS_RM_TQ_REQ: -127
   response: |-
-    70810086210A2858599
+    70810086210A27F8199
+    7082187880000000000
+- expected_values:
+    LEXUS_RM_TQ_REQ: 1673
+  response: |-
+    70810086210A2868999
     7082187880000000000
 - expected_values:
     LEXUS_RM_TQ_REQ: 1927

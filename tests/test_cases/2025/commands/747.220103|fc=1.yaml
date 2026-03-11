@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ODO_V6: 9984
   response: 74F0762010302002700
 - expected_values:
-    LEXUS_ODO_V6: 24118
-  response: 74F0762010302005E36
+    LEXUS_ODO_V6: 24393
+  response: 74F0762010302005F49

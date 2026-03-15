@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.2215F7
 test_cases:
 - expected_values:
-    LEXUS_12V_C: -33.07717
-  response: 7DA056215F75E21
+    LEXUS_12V_C: -37.41449
+  response: 7DA056215F759B0
 - expected_values:
     LEXUS_12V_C: -0.00373
   response: 7DA056215F77FFF

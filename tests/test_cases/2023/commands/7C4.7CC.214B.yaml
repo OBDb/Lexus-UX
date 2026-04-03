@@ -4,5 +4,5 @@ test_cases:
     LEXUS_EVAP_FIN_THERMISTOR: -5.9
   response: 7CC03614B44
 - expected_values:
-    LEXUS_EVAP_FIN_THERMISTOR: 13.7
-  response: 7CC03614B7C
+    LEXUS_EVAP_FIN_THERMISTOR: 14.05
+  response: 7CC03614B7D

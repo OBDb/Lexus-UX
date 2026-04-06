@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ODO_V2_V2: 44800
   response: 7DA076201030100AF00
 - expected_values:
-    LEXUS_ODO_V2_V2: 54016
-  response: 7DA076201030100D300
+    LEXUS_ODO_V2_V2: 54528
+  response: 7DA076201030100D500

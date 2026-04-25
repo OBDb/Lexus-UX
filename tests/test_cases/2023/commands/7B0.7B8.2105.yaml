@@ -18,5 +18,5 @@ test_cases:
   response: 7B8056105858BC8
 - expected_values:
     LEXUS_DECEL: 3.49341
-    LEXUS_DECEL_2: -0.21388
-  response: 7B8056105987EAC
+    LEXUS_DECEL_2: -0.35647
+  response: 7B8056105987D6E

@@ -7,8 +7,8 @@ test_cases:
     LEXUS_12V_V: 13.12008
   response: 7080562100229FC
 - expected_values:
-    LEXUS_12V_V: 13.43747
-  response: 708056210022B00
+    LEXUS_12V_V: 13.12497
+  response: 708056210022A00
 - expected_values:
     LEXUS_12V_V: 14.37496
   response: '708056210022E00'

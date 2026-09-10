@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 90.00973
   response: 7080562108F2401
+- expected_values:
+    LEXUS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 93.00778
+  response: 7080562108F2534

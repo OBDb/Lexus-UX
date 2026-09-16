@@ -5,7 +5,7 @@ test_cases:
   response: 7080762101901A98A8C
 - expected_values:
     LEXUS_INJECTION: DIRECT
-  response: 7080762101901B18000
+  response: 7080762101901AF8000
 - expected_values:
     LEXUS_INJECTION: DIRECT
   response: 7080762101901FF8000

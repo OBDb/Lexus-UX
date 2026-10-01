@@ -1,11 +1,14 @@
 command_id: 7D2.7DA.221002
 test_cases:
 - expected_values:
-    LEXUS_AUX_BAT_V: 14.28864
-  response: 7DA056210022DC0
+    LEXUS_AUX_BAT_V: 12.76608
+  response: 7DA0562100228E0
 - expected_values:
-    LEXUS_AUX_BAT_V: 14.36184
-  response: 7DA056210022DFC
+    LEXUS_AUX_BAT_V: 12.80024
+  response: 7DA0562100228FC
+- expected_values:
+    LEXUS_AUX_BAT_V: 12.80512
+  response: 7DA056210022900
 - expected_values:
     LEXUS_AUX_BAT_V: 14.37648
   response: 7DA056210022E08

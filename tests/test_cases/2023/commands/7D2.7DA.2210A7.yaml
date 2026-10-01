@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.2210A7
+test_cases:
+- expected_values:
+    LEXUS_BOOSTING_CONV_T_HI: 30
+    LEXUS_BOOSTING_CONV_T_LO: 30
+  response: 7DA076210A746464E5E
+- expected_values:
+    LEXUS_BOOSTING_CONV_T_HI: 32
+    LEXUS_BOOSTING_CONV_T_LO: 32
+  response: 7DA076210A748484E5B
+- expected_values:
+    LEXUS_BOOSTING_CONV_T_HI: 45
+    LEXUS_BOOSTING_CONV_T_LO: 41
+  response: 7DA076210A755514E5E

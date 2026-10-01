@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.214A
+test_cases:
+- expected_values:
+    LEXUS_COMP_TGT_SPD: 0
+  response: 7CC04614A0000
+- expected_values:
+    LEXUS_COMP_TGT_SPD: 2300
+  response: 7CC04614A08FC
+- expected_values:
+    LEXUS_COMP_TGT_SPD: 2749
+  response: 7CC04614A0ABD

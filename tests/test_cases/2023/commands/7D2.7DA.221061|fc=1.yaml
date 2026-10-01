@@ -4,5 +4,8 @@ test_cases:
     LEXUS_SHIFT: P
   response: 7DA056210610001
 - expected_values:
+    LEXUS_SHIFT: R
+  response: 7DA056210610202
+- expected_values:
     LEXUS_SHIFT: D
   response: 7DA056210610608

@@ -13,5 +13,6 @@ test_cases:
     LEXUS_FUEL_LEVEL: 10.23
   response: 7C80562102203FF
 - expected_values:
-    LEXUS_FUEL_LEVEL: 655.35
+    LEXUS_FLV: null
+    LEXUS_FUEL_LEVEL: null
   response: 7C805621022FFFF

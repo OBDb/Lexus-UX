@@ -1,109 +1,109 @@
 command_id: 7D2.7DA.2210A1
 test_cases:
 - expected_values:
-    LEXUS_RPM: -659
+    LEXUS_RPM_V2: -659
     LEXUS_TQ: -7.375
   response: |-
     7DA100C6210A17D6D7F
     7DA21C603007FC50400
 - expected_values:
-    LEXUS_RPM: -495
+    LEXUS_RPM_V2: -495
     LEXUS_TQ: -13
   response: |-
     7DA100C6210A17E117F
     7DA219F03007F980400
 - expected_values:
-    LEXUS_RPM: -440
+    LEXUS_RPM_V2: -440
     LEXUS_TQ: -14
   response: |-
     7DA100C6210A17E487F
     7DA219503007F900400
 - expected_values:
-    LEXUS_RPM: -367
+    LEXUS_RPM_V2: -367
     LEXUS_TQ: -20.125
   response: |-
     7DA100C6210A17E917F
     7DA216D03007F5F0400
 - expected_values:
-    LEXUS_RPM: -321
+    LEXUS_RPM_V2: -321
     LEXUS_TQ: -19.375
   response: |-
     7DA100C6210A17EBF7F
     7DA217003007F650400
 - expected_values:
-    LEXUS_RPM: -131
+    LEXUS_RPM_V2: -131
     LEXUS_TQ: -30.25
   response: |-
     7DA100C6210A17F7D7F
     7DA210F03007F0E0400
 - expected_values:
-    LEXUS_RPM: -75
+    LEXUS_RPM_V2: -75
     LEXUS_TQ: -52.625
   response: |-
     7DA100C6210A17FB57E
     7DA216B01007E5B0400
 - expected_values:
-    LEXUS_RPM: -54
+    LEXUS_RPM_V2: -54
     LEXUS_TQ: 34.25
   response: |-
     7DA100C6210A17FCA80
     7DA21FD030081120400
 - expected_values:
-    LEXUS_RPM: -10
+    LEXUS_RPM_V2: -10
     LEXUS_TQ: -0.125
   response: |-
     7DA100C6210A17FF680
     7DA210003007FFF0400
 - expected_values:
-    LEXUS_RPM: -9
+    LEXUS_RPM_V2: -9
     LEXUS_TQ: 0.375
   response: |-
     7DA100C6210A17FF780
     7DA210C030080030400
 - expected_values:
-    LEXUS_RPM: -1
+    LEXUS_RPM_V2: -1
     LEXUS_TQ: -6.875
   response: |-
     7DA100C6210A17FFF7F
     7DA21C903007FC90400
 - expected_values:
-    LEXUS_RPM: -1
+    LEXUS_RPM_V2: -1
     LEXUS_TQ: -0.125
   response: |-
     7DA100C6210A17FFF80
     7DA210003007FFF0000
 - expected_values:
-    LEXUS_RPM: 0
+    LEXUS_RPM_V2: 0
     LEXUS_TQ: -10.125
   response: |-
     7DA100C6210A180007F
     7DA21B203007FAF0400
 - expected_values:
-    LEXUS_RPM: 1285
+    LEXUS_RPM_V2: 1285
     LEXUS_TQ: 186.375
   response: |-
     7DA100C6210A1850585
     7DA21E3020085D30400
 - expected_values:
-    LEXUS_RPM: 2305
+    LEXUS_RPM_V2: 2305
     LEXUS_TQ: 84.625
   response: |-
     7DA100C6210A1890182
     7DA2166030282A50400
 - expected_values:
-    LEXUS_RPM: 3776
+    LEXUS_RPM_V2: 3776
     LEXUS_TQ: -97.5
   response: |-
     7DA100C6210A18EC07C
     7DA21FB03007CF40400
 - expected_values:
-    LEXUS_RPM: 8803
+    LEXUS_RPM_V2: 8803
     LEXUS_TQ: -18.125
   response: |-
     7DA100C6210A1A2637F
     7DA217904027F6F0400
 - expected_values:
-    LEXUS_RPM: 14820
+    LEXUS_RPM_V2: 14820
     LEXUS_TQ: -8.5
   response: |-
     7DA100C6210A1B9E47F

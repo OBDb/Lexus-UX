@@ -184,6 +184,7 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "6F1":
   - 6F1.221700
+  - 6F1.22420C|e=60,fc=1:LEXUS_RANGE,LEXUS_RANGE_COMF,LEXUS_RANGE_ECO
   - 6F1.224AB1
   - 6F1.22586F
   - 6F1.22D107

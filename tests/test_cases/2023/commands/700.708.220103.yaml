@@ -4,5 +4,5 @@ test_cases:
     LEXUS_ENG_ODO: 63808
   response: 708076201030100F940
 - expected_values:
-    LEXUS_ENG_ODO: 63892
-  response: 708076201030100F994
+    LEXUS_ENG_ODO: 63938
+  response: 708076201030100F9C2

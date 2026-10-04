@@ -1,6 +1,12 @@
 command_id: 7D2.7DA.2210A4
 test_cases:
 - expected_values:
+    LEXUS_GEN_INVERTER_T: 17
+  response: 7DA066210A4393640
+- expected_values:
+    LEXUS_GEN_INVERTER_T: 22
+  response: 7DA066210A43E363E
+- expected_values:
     LEXUS_GEN_INVERTER_T: 29
   response: 7DA066210A4454F54
 - expected_values:

@@ -40,3 +40,8 @@ test_cases:
   response: |-
     7DA100A620102130500
     7DA210A6FCE01000000
+- expected_values:
+    LEXUS_KEY_CYCLE: 4870
+  response: |-
+    7DA100A620102130600
+    7DA21506D3F01000000

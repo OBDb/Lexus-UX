@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221039
 test_cases:
 - expected_values:
-    LEXUS_FRONT_REAR_MOTOR_TQ: -29.552
-  response: 7DA0762103920A40C90
+    LEXUS_FRONT_REAR_MOTOR_TQ: -29.586
+  response: 7DA0762103920A40C6E
 - expected_values:
     LEXUS_FRONT_REAR_MOTOR_TQ: -29.524
   response: 7DA0762103920A40CAC

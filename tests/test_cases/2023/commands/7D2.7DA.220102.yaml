@@ -26,11 +26,6 @@ test_cases:
     7DA100A62010212FF00
     7DA21200DE301000000
 - expected_values:
-    LEXUS_KEY_CYCLE: 4863
-  response: |-
-    7DA100A62010212FF00
-    7DA2121904101000000
-- expected_values:
     LEXUS_KEY_CYCLE: 4869
   response: |-
     7DA100A620102130500
@@ -45,3 +40,8 @@ test_cases:
   response: |-
     7DA100A620102130700
     7DA2180B84101000000
+- expected_values:
+    LEXUS_KEY_CYCLE: 4873
+  response: |-
+    7DA100A620102130900
+    7DA212EF02001000000

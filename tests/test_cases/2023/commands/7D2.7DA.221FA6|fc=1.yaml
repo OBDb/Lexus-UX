@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ODO_1FA6: 64153.5
   response: 7DA07621FA60009C9FF
 - expected_values:
-    LEXUS_ODO_1FA6: 64179.5
-  response: 7DA07621FA60009CB03
+    LEXUS_ODO_1FA6: 64205.1
+  response: 7DA07621FA60009CC03

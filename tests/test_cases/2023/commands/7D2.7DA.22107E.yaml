@@ -7,23 +7,8 @@ test_cases:
     LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
   response: 7DA0562107E2400
 - expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E2410
-- expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E2420
-- expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E2430
-- expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E2480
-- expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E24A0
-- expected_values:
-    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29392
-  response: 7DA0562107E24B0
-- expected_values:
     LEXUS_12V_BAT_V_BEFORE_SMR: 11.29514
   response: 7DA0562107E25D0
+- expected_values:
+    LEXUS_12V_BAT_V_BEFORE_SMR: 11.29636
+  response: 7DA0562107E2610

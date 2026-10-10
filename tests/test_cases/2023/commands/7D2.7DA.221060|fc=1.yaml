@@ -4,5 +4,5 @@ test_cases:
     LEXUS_APP_V2: 0
   response: 7DA0462106000
 - expected_values:
-    LEXUS_APP_V2: 51.5
-  response: 7DA0462106067
+    LEXUS_APP_V2: 58.5
+  response: 7DA0462106075

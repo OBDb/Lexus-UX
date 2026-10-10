@@ -4,8 +4,11 @@ test_cases:
     LEXUS_12V_BAT_V_SMOOTHED: 12.631
   response: 7DA05621F423157
 - expected_values:
-    LEXUS_12V_BAT_V_SMOOTHED: 14.331
-  response: 7DA05621F4237FB
+    LEXUS_12V_BAT_V_SMOOTHED: 12.802
+  response: 7DA05621F423202
+- expected_values:
+    LEXUS_12V_BAT_V_SMOOTHED: 14.335
+  response: 7DA05621F4237FF
 - expected_values:
     LEXUS_12V_BAT_V_SMOOTHED: 14.34
   response: 7DA05621F423804

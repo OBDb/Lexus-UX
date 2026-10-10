@@ -1,44 +1,44 @@
 command_id: 7D2.7DA.221F9A
 test_cases:
 - expected_values:
-    LEXUS_HVBAT_C: 107.3
-    LEXUS_HVBAT_V: 192
+    UX_HVBAT_C: 107.3
+    UX_HVBAT_V: 192
   response: |-
     7DA1009621F9A0E0030
     7DA2100043100000000
 - expected_values:
-    LEXUS_HVBAT_C: 126.3
-    LEXUS_HVBAT_V: 193
+    UX_HVBAT_C: 126.3
+    UX_HVBAT_V: 193
   response: |-
     7DA1009621F9A0E0030
     7DA214004EF00000000
 - expected_values:
-    LEXUS_HVBAT_C: 109.3
-    LEXUS_HVBAT_V: 195
+    UX_HVBAT_C: 109.3
+    UX_HVBAT_V: 195
   response: |-
     7DA1009621F9A0E0030
     7DA21C0044500000000
 - expected_values:
-    LEXUS_HVBAT_C: 68.8
-    LEXUS_HVBAT_V: 196
+    UX_HVBAT_C: 68.8
+    UX_HVBAT_V: 196
   response: |-
     7DA1009621F9A0E0031
     7DA210002B000000000
 - expected_values:
-    LEXUS_HVBAT_C: -1.2
-    LEXUS_HVBAT_V: 215
+    UX_HVBAT_C: -1.2
+    UX_HVBAT_V: 215
   response: |-
     7DA1009621F9A0E0035
     7DA21C0FFF400000000
 - expected_values:
-    LEXUS_HVBAT_C: 0.3
-    LEXUS_HVBAT_V: 220
+    UX_HVBAT_C: 0.3
+    UX_HVBAT_V: 220
   response: |-
     7DA1009621F9A0E0037
     7DA2100000300000000
 - expected_values:
-    LEXUS_HVBAT_C: -70.7
-    LEXUS_HVBAT_V: 306
+    UX_HVBAT_C: -70.7
+    UX_HVBAT_V: 306
   response: |-
     7DA1009621F9A0E004C
     7DA2180FD3D00000000

@@ -1,8 +1,8 @@
-command_id: 7D2.221F5B|fc=1
+command_id: 7D2.7DA.221F5B|fc=1
 test_cases:
 - expected_values:
-    LEXUS_SOC: 28.62745
+    UX_SOC: 28.62745
   response: 7DA04621F5B49
 - expected_values:
-    LEXUS_SOC: 80
+    UX_SOC: 80
   response: 7DA04621F5BCC

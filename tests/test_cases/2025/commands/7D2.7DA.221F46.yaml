@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
-    LEXUS_AAT_7D2: null
+    UX_AAT: null
   response: 7DA04621F4600
 - expected_values:
-    LEXUS_AAT_7D2: 38
+    UX_AAT: 38
   response: 7DA04621F464E

@@ -1,8 +1,8 @@
 command_id: 700.708.22105E
 test_cases:
 - expected_values:
-    LEXUS_ECU_INTERNAL_T: -2
+    UX_ECU_INTERNAL_T: -2
   response: '7080462105E26'
 - expected_values:
-    LEXUS_ECU_INTERNAL_T: 59
+    UX_ECU_INTERNAL_T: 59
   response: '7080462105E63'

@@ -1,14 +1,14 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    LEXUS_ODO_V6: 9014
+    UX_ODO: 9014
   response: 74F0762010302002336
 - expected_values:
-    LEXUS_ODO_V6: 9983
+    UX_ODO: 9983
   response: 74F07620103020026FF
 - expected_values:
-    LEXUS_ODO_V6: 9984
+    UX_ODO: 9984
   response: 74F0762010302002700
 - expected_values:
-    LEXUS_ODO_V6: 34597
+    UX_ODO: 34597
   response: 74F0762010302008725

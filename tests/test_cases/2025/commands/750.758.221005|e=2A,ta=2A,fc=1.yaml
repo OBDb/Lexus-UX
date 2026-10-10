@@ -1,19 +1,17 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    LEXUS_TP_FR_V2: 0
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_RL_V2: 0
-    LEXUS_TP_SPARE_V2: 0
+    LEXUS_TP_RR_V2: 0
   response: |-
     7582A100D6210050000
     7582A21000000000000
     7582A22000000000000
 - expected_values:
     LEXUS_TP_4: 32.84848
-    LEXUS_TP_FR_V2: 0
     LEXUS_TP_RL_V2: 0
     LEXUS_TP_RR_V2: 2.24138
-    LEXUS_TP_SPARE_V2: 0
   response: |-
     7582A100D6210050000
     7582A2100000000009F
@@ -22,7 +20,6 @@ test_cases:
     LEXUS_TP_3: 32.84848
     LEXUS_TP_RL_V2: 2.24138
     LEXUS_TP_RR_V2: 0
-    LEXUS_TP_SPARE_V2: 0
   response: |-
     7582A100D6210050000
     7582A210000009F0000
@@ -30,6 +27,8 @@ test_cases:
 - expected_values:
     LEXUS_TP_3: 36.9697
     LEXUS_TP_4: 35.51515
+    LEXUS_TP_FL_V2: 0
+    LEXUS_TP_FR_V2: 0
     LEXUS_TP_RL_V2: 2.53448
     LEXUS_TP_RR_V2: 2.43103
   response: |-
@@ -39,18 +38,19 @@ test_cases:
 - expected_values:
     LEXUS_TP_3: 36.9697
     LEXUS_TP_4: 40.60606
-    LEXUS_TP_FR_V2: 0
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_RL_V2: 2.53448
     LEXUS_TP_RR_V2: 2.7931
-    LEXUS_TP_SPARE_V2: 0
   response: |-
     7582A100D6210050000
     7582A21000000B000BF
     7582A22000000000000
 - expected_values:
     LEXUS_TP_2: 32.84848
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_FR_V2: 2.24138
     LEXUS_TP_RL_V2: 0
+    LEXUS_TP_RR_V2: 0
   response: |-
     7582A100D6210050000
     7582A21009F00000000
@@ -64,7 +64,6 @@ test_cases:
     LEXUS_TP_FR_V2: 2.58621
     LEXUS_TP_RL_V2: 2.48276
     LEXUS_TP_RR_V2: 2.56897
-    LEXUS_TP_SPARE_V2: 0
   response: |-
     7582A100D62100500AD
     7582A2100B300AD00B2
@@ -78,7 +77,6 @@ test_cases:
     LEXUS_TP_FR_V2: 2.68966
     LEXUS_TP_RL_V2: 2.7069
     LEXUS_TP_RR_V2: 2.7069
-    LEXUS_TP_SPARE_V2: 0
   response: |-
     7582A100D62100500BB
     7582A2100B900BA00BA

@@ -4,8 +4,8 @@ test_cases:
     LEXUS_GEN_INVERTER_T: 17
   response: 7DA066210A4393640
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 22
-  response: 7DA066210A43E363E
+    LEXUS_GEN_INVERTER_T: 20
+  response: 7DA066210A43C393D
 - expected_values:
     LEXUS_GEN_INVERTER_T: 25
   response: 7DA066210A4414F58

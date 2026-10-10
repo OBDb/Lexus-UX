@@ -1,10 +1,8 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 0
-    LEXUS_VSS: 0
+    UX_VSS_V1: 0
   response: 7B803612100
 - expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 172.8
-    LEXUS_VSS: 172.8
+    UX_VSS_V1: 172.8
   response: 7B803612187

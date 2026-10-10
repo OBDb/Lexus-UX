@@ -1,17 +1,17 @@
 command_id: 7D2.7DA.2210A4
 test_cases:
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 17
+    UX_GEN_INVERTER_T: 17
   response: 7DA066210A4393640
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 20
+    UX_GEN_INVERTER_T: 20
   response: 7DA066210A43C393D
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 25
+    UX_GEN_INVERTER_T: 25
   response: 7DA066210A4414F58
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 26
+    UX_GEN_INVERTER_T: 26
   response: 7DA066210A4425052
 - expected_values:
-    LEXUS_GEN_INVERTER_T: 43
+    UX_GEN_INVERTER_T: 43
   response: 7DA066210A4534F54

@@ -1,14 +1,14 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    LEXUS_ENG_ODO: 63808
+    UX_ENG_ODO: 63808
   response: 708076201030100F940
 - expected_values:
-    LEXUS_ENG_ODO: 63999
+    UX_ENG_ODO: 63999
   response: 708076201030100F9FF
 - expected_values:
-    LEXUS_ENG_ODO: 64000
+    UX_ENG_ODO: 64000
   response: 708076201030100FA00
 - expected_values:
-    LEXUS_ENG_ODO: 64256
+    UX_ENG_ODO: 64256
   response: 708076201030100FB00

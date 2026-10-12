@@ -1,13 +1,17 @@
 command_id: 7D2.7DA.2210A7
 test_cases:
 - expected_values:
+    UX_BOOSTING_CONV_T_HI: 13
+    UX_BOOSTING_CONV_T_LO: 13
+  response: 7DA076210A735354255
+- expected_values:
     UX_BOOSTING_CONV_T_HI: 14
     UX_BOOSTING_CONV_T_LO: 13
   response: 7DA076210A736353548
 - expected_values:
-    UX_BOOSTING_CONV_T_HI: 20
-    UX_BOOSTING_CONV_T_LO: 21
-  response: 7DA076210A73C3D373F
+    UX_BOOSTING_CONV_T_HI: 15
+    UX_BOOSTING_CONV_T_LO: 15
+  response: 7DA076210A737373737
 - expected_values:
     UX_BOOSTING_CONV_T_HI: 27
     UX_BOOSTING_CONV_T_LO: 32

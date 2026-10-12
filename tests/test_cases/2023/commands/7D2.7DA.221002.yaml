@@ -10,5 +10,5 @@ test_cases:
     UX_AUX_BAT_V: 12.80512
   response: 7DA056210022900
 - expected_values:
-    UX_AUX_BAT_V: 14.37648
-  response: 7DA056210022E08
+    UX_AUX_BAT_V: 14.3716
+  response: 7DA056210022E04

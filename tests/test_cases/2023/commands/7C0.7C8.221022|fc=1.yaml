@@ -10,5 +10,8 @@ test_cases:
     UX_FLV: 10.23
   response: 7C80562102203FF
 - expected_values:
+    UX_FLV: 40.96
+  response: 7C8056210221000
+- expected_values:
     UX_FLV: null
   response: 7C805621022FFFF

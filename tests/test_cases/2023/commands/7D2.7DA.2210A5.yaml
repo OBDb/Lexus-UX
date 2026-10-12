@@ -1,6 +1,11 @@
 command_id: 7D2.7DA.2210A5
 test_cases:
 - expected_values:
+    UX_MAX_MOTOR_INVERTER_T: 29
+    UX_MOTOR_INVERTER_T: 13
+    UX_MOTOR_INVERTER_T_ON: 12
+  response: 7DA066210A5353445
+- expected_values:
     UX_MAX_MOTOR_INVERTER_T: 26
     UX_MOTOR_INVERTER_T: 15
     UX_MOTOR_INVERTER_T_ON: 11

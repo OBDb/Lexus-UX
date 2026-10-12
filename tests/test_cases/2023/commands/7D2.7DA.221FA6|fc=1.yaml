@@ -10,5 +10,5 @@ test_cases:
     UX_ODO_1FA6: 64153.5
   response: 7DA07621FA60009C9FF
 - expected_values:
-    UX_ODO_1FA6: 64384.1
-  response: 7DA07621FA60009D301
+    UX_ODO_1FA6: 64409.8
+  response: 7DA07621FA60009D402

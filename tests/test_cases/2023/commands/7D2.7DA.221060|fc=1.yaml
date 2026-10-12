@@ -4,5 +4,5 @@ test_cases:
     UX_APP_V2: 0
   response: 7DA0462106000
 - expected_values:
-    UX_APP_V2: 58.5
-  response: 7DA0462106075
+    UX_APP_V2: 67.5
+  response: 7DA0462106087

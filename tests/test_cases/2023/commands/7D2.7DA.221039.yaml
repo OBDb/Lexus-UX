@@ -7,8 +7,8 @@ test_cases:
     UX_FRONT_REAR_MOTOR_TQ: -29.197
   response: 7DA0762103923D70DF3
 - expected_values:
-    UX_FRONT_REAR_MOTOR_TQ: -29.193
-  response: 7DA0762103923D70DF7
+    UX_FRONT_REAR_MOTOR_TQ: -29.185
+  response: 7DA0762103923D70DFF
 - expected_values:
     UX_FRONT_REAR_MOTOR_TQ: -29.184
   response: 7DA0762103923D70E00

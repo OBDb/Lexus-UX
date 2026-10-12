@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.2210A4
 test_cases:
 - expected_values:
-    UX_GEN_INVERTER_T: 15
-  response: 7DA066210A4373744
+    UX_GEN_INVERTER_T: 13
+  response: 7DA066210A4354446
 - expected_values:
     UX_GEN_INVERTER_T: 17
   response: 7DA066210A4393640
 - expected_values:
-    UX_GEN_INVERTER_T: 20
-  response: 7DA066210A43C393D
+    UX_GEN_INVERTER_T: 17
+  response: 7DA066210A4393939
 - expected_values:
     UX_GEN_INVERTER_T: 25
   response: 7DA066210A4414F58

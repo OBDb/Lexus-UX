@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     UX_ENG_ODO: 65280
   response: 708076201030100FF00
+- expected_values:
+    UX_ENG_ODO: 65537
+  response: '7080762010301010001'

@@ -1,14 +1,18 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    UX_ODO: 9014
+    UX_ODO_RAW: 9014
+    UX_ODO_UNIT: MI
   response: 74F0762010302002336
 - expected_values:
-    UX_ODO: 9983
+    UX_ODO_RAW: 9983
+    UX_ODO_UNIT: MI
   response: 74F07620103020026FF
 - expected_values:
-    UX_ODO: 9984
+    UX_ODO_RAW: 9984
+    UX_ODO_UNIT: MI
   response: 74F0762010302002700
 - expected_values:
-    UX_ODO: 34597
+    UX_ODO_RAW: 34597
+    UX_ODO_UNIT: MI
   response: 74F0762010302008725

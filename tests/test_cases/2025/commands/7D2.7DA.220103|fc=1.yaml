@@ -1,17 +1,22 @@
 command_id: 7D2.7DA.220103|fc=1
 test_cases:
 - expected_values:
-    UX_ODO_V2: 9014
+    UX_ODO_V2_RAW: 9014
+    UX_ODO_V2_UNIT: MI
   response: 7DA0762010302002336
 - expected_values:
-    UX_ODO_V2: 13297
+    UX_ODO_V2_RAW: 13297
+    UX_ODO_V2_UNIT: MI
   response: 7DA07620103020033F1
 - expected_values:
-    UX_ODO_V2: 21248
+    UX_ODO_V2_RAW: 21248
+    UX_ODO_V2_UNIT: MI
   response: 7DA0762010302005300
 - expected_values:
-    UX_ODO_V2: 21759
+    UX_ODO_V2_RAW: 21759
+    UX_ODO_V2_UNIT: MI
   response: 7DA07620103020054FF
 - expected_values:
-    UX_ODO_V2: 34598
+    UX_ODO_V2_RAW: 34598
+    UX_ODO_V2_UNIT: MI
   response: 7DA0762010302008726

@@ -1,17 +1,22 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    UX_ENG_ODO: 63808
+    UX_ENG_ODO_RAW: 63808
+    UX_ENG_ODO_UNIT: KM
   response: 708076201030100F940
 - expected_values:
-    UX_ENG_ODO: 63999
+    UX_ENG_ODO_RAW: 63999
+    UX_ENG_ODO_UNIT: KM
   response: 708076201030100F9FF
 - expected_values:
-    UX_ENG_ODO: 64000
+    UX_ENG_ODO_RAW: 64000
+    UX_ENG_ODO_UNIT: KM
   response: 708076201030100FA00
 - expected_values:
-    UX_ENG_ODO: 65280
+    UX_ENG_ODO_RAW: 65280
+    UX_ENG_ODO_UNIT: KM
   response: 708076201030100FF00
 - expected_values:
-    UX_ENG_ODO: 65537
+    UX_ENG_ODO_RAW: 65537
+    UX_ENG_ODO_UNIT: KM
   response: '7080762010301010001'
